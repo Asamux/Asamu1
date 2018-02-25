@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 哈哈你是大笨蛋吧
 
 You can use the [editor on GitHub](https://github.com/Asamux/Asamu1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
